@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* 自前でantdのクラス名に対してCSSを足してみる */
+.ant-popover {
+  background-color: #25D2AD;
+}
